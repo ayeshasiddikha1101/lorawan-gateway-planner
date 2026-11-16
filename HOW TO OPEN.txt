@@ -1,0 +1,18 @@
+Team Odyssey - HN LoRaWAN Planner pitch
+=======================================
+
+1. Keep this folder together (the .html file and the "assets" folder side by side).
+   You can copy or move the whole folder anywhere, to any computer or a USB stick.
+2. Double-click "Team Odyssey Pitch.html". It opens in any web browser
+   (Chrome, Edge, Firefox, Safari). No internet and no installation needed.
+
+Controls
+  Right arrow / Space / mouse wheel / swipe   next step
+  Left arrow                                  previous step
+  F                                           fullscreen
+  N                                           speaker notes
+  K                                           play / pause the demo video
+  Buttons under the video jump to a chapter.
+
+Sending it to someone: send "Team Odyssey Pitch.zip" (next to this folder) and tell them
+to unzip it first, then double-click the .html file inside.
